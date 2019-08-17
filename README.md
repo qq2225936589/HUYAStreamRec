@@ -1,7 +1,7 @@
 # HUYAStreamRec
 HUYA Live Stream Recording Tool
 
-Userge: HYStreamRec [roomid OR URL]
+Usage: HYStreamRec [roomid OR URL]
 
     example HYStreamRec 11342412
   
