@@ -8,3 +8,5 @@ Usage: HSR [roomid OR URL]
             HSR https://www.huya.com/11342412
 
 Version 1.0 by 007 2019.08
+
+Donation Alipay HY007
