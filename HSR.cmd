@@ -4,7 +4,7 @@ set roomid=%~1
 
 IF NOT DEFINED roomid (
   echo HUYA Live Stream Recording Tool
-  echo Userge: HSR [roomid OR URL]
+  echo Usage: HSR [roomid OR URL]
   echo   example HSR 11342412
   echo           HSR https://www.huya.com/11342412
   echo   Version 1.0 by 007 2019.08
